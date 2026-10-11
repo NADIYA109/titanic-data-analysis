@@ -28,3 +28,5 @@ This project focuses on analyzing the Titanic dataset using Python. The main aim
 ## Dataset
 
 The dataset contains passenger information such as survival status, passenger class, name, gender, age, family members aboard, ticket number, fare, cabin, and embarkation point.
+
+**Source:** [Titanic Dataset – Kaggle](https://www.kaggle.com/datasets/rahulsah06/titanic?select=train.csv)
