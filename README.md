@@ -1,7 +1,7 @@
 # Titanic Dataset Analysis
 
 ## Project Overview
-This project focuses on analyzing the Titanic dataset using Python. The main aim is to understand passenger characteristics and explore survival patterns based on passenger class, gender, age, fare, and other factors. I performed data cleaning and Exploratory Data Analysis (EDA) to explore the dataset and identify useful insights through visualizations.
+The Titanic dataset is analyzed using Python to understand passenger survival patterns. The analysis explores factors such as age, gender, passenger class, and fare to identify differences in survival outcomes. Data cleaning and preprocessing are performed to prepare the dataset for analysis. Exploratory Data Analysis (EDA) and visualizations are used to explore the data and identify useful patterns.
 
 ## Objectives
 
